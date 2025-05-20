@@ -20,7 +20,7 @@ channels_config = {
     },
     "ichancyTheKing": {
         "username": "ichancyTheKing",
-        "regex": r"\b[a-zA-Z0-9]{5,}\b",
+        "regex": r"\b[a-zA-Z0-9]{6,}\b",
         "bot": "@Ichancy_TheKingBot"
     },
     "ichancy_Bot_Dragon": {
@@ -41,17 +41,17 @@ channels_config = {
     },
     "diamondichancy": {
         "username": "diamondichancy",
-        "regex": r"\b[a-zA-Z0-9]{5,}\b",
+        "regex": r"\b[a-zA-Z0-9]{6,}\b",
         "bot": "@DiamondIchancyBot"
     },
     "ichancyteacherbot": {
         "username": "ichancyteacherbot",
-        "regex": r"\b[a-zA-Z0-9]{5,}\b",
+        "regex": r"\b[a-zA-Z0-9]{6,}\b",
         "bot": "@teacher_ichancy_bot"
     },
     "almalaki_ichancy": {
         "username": "almalaki_ichancy",
-        "regex": r"\b[a-zA-Z0-9]{5,}\b",
+        "regex": r"\b[a-zA-Z0-9]{6,}\b",
         "bot": "@almalaki_ichancy_bot"
     },
     "IchacyAlcont": {
